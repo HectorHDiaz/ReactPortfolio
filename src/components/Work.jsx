@@ -28,10 +28,10 @@ const Work = () => {
                 Backend NodeJS App
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://proyectofinal-atobass.herokuapp.com/">
+                <a target={"_blank"} href="https://proyectofinal-atobass.herokuapp.com/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="https://github.com/HectorHDiaz/BassShop-Backend">
+                <a target={"_blank"} href="https://github.com/HectorHDiaz/BassShop-Backend">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -47,10 +47,10 @@ const Work = () => {
                 ReactJS Donation App
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://firusdonation.herokuapp.com/">
+                <a target={"_blank"} href="https://firusdonation.herokuapp.com/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="https://github.com/HectorHDiaz/Firus-React">
+                <a target={"_blank"} href="https://github.com/HectorHDiaz/Firus-React">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -66,10 +66,10 @@ const Work = () => {
                 JS ES6 Page
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://github.com/HectorHDiaz/Firus-JavascripES6">
+                <a target={"_blank"} href="https://github.com/HectorHDiaz/Firus-JavascripES6">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="https://hectorhdiaz.github.io/Firus-JavascripES6/">
+                <a target={"_blank"} href="https://hectorhdiaz.github.io/Firus-JavascripES6/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -85,10 +85,10 @@ const Work = () => {
                 Frontend Mockup
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://hectorhdiaz.github.io/Firus-WebDevelopment/">
+                <a target={"_blank"} href="https://hectorhdiaz.github.io/Firus-WebDevelopment/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="https://github.com/HectorHDiaz/Firus-WebDevelopment">
+                <a target={"_blank"} href="https://github.com/HectorHDiaz/Firus-WebDevelopment">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -104,10 +104,10 @@ const Work = () => {
                 TPLAK Web Design
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://hectorhdiaz.github.io/freeCodeCamp-LandingPage/">
+                <a target={"_blank"} href="https://hectorhdiaz.github.io/freeCodeCamp-LandingPage/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="https://github.com/HectorHDiaz/freeCodeCamp-LandingPage">
+                <a target={"_blank"} href="https://github.com/HectorHDiaz/freeCodeCamp-LandingPage">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -123,10 +123,10 @@ const Work = () => {
                 ReactJS application
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a target={"_blank"} href="/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href="/">
+                <a target={"_blank"} href="/">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
